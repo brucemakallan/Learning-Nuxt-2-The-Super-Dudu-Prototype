@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "The Super Dudu e-commerce application",
   "author": "brucemakallan",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "nuxt",
