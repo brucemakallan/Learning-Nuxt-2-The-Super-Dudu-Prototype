@@ -1,22 +1,7 @@
-# thesuperdudu
+# The Super Dudu
 
-> The Super Dudu e-commerce application
+> E-commerce Vue/Nuxt application
 
-## Build Setup
-
-``` bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+#### Developer Notes
+- [Documentation](https://docs.google.com/document/d/11Ho428M-SvDin6ykidQNYkH_KSscOnH85Mrw-339cAE/edit#heading=h.zcazox64u48u)
+- [Trello Board](https://trello.com/b/CKzTOI4c/the-super-dudu-vue)
