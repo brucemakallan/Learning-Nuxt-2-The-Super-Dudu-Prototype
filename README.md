@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/brucemakallan/The-Super-Dudu.svg?style=svg)](https://circleci.com/gh/brucemakallan/The-Super-Dudu)
+
 # The Super Dudu
 
 > E-commerce Vue/Nuxt application
