@@ -1,12 +1,12 @@
 <template>
   <div class="homepage">
     <h1>Homepage</h1>
-    <div>{{ this.product.title }}</div>
+    <div>{{ product.title }}</div>
   </div>
 </template>
 
 <script>
-import { mapGetters, mapActions } from "vuex";
+import { mapGetters } from "vuex"
 
 export default {
   name: "Homepage",
@@ -16,7 +16,7 @@ export default {
       product: "products/product"
     })
   }
-};
+}
 </script>
 
 <style>

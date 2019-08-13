@@ -1,11 +1,18 @@
 <template>
-  <div class="nav-bar">NavBar</div>
+  <div class="nav-bar">
+    NavBar
+  </div>
 </template>
 
 <script>
 export default {
-  name: "NavBar"
-};
+  name: "NavBar",
+  data() {
+    return {
+      title: 'this'
+    }
+  },
+}
 </script>
 
 <style>
