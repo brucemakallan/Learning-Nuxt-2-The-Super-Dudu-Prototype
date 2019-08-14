@@ -15,7 +15,21 @@ export default {
       products: "products/products",
       product: "products/product"
     })
-  }
+  },
+  mounted() {
+    this.showWelcomeMessage()
+  },
+  methods: {
+
+  },
+  notifications: {
+    showWelcomeMessage: {
+      title: 'Page Mounted',
+      message: 'Testing notifications',
+      type: 'success',
+      timeout: 3000
+    }
+  },
 }
 </script>
 
