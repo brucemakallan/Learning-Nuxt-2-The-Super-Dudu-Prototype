@@ -2,6 +2,10 @@
   <div class="homepage">
     <h1>Homepage</h1>
     <div>{{ product.title }}</div>
+    <div>
+      <font-awesome-icon :icon="['fab', 'facebook']" />
+      <font-awesome-icon :icon="['fas', 'coffee']" />
+    </div>
   </div>
 </template>
 
