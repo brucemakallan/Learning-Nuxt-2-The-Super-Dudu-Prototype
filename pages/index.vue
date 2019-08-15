@@ -1,7 +1,10 @@
 <template>
-  <div class="homepage">
+  <div class="page homepage">
     <h1>Homepage</h1>
     <div>{{ product.title }}</div>
+    <nuxt-link to="/about">
+      About
+    </nuxt-link>
     <div class="icons">
       <font-awesome-icon :icon="['fab', 'facebook']" />
       <font-awesome-icon :icon="['fas', 'coffee']" />
