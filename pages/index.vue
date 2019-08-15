@@ -2,7 +2,7 @@
   <div class="homepage">
     <h1>Homepage</h1>
     <div>{{ product.title }}</div>
-    <div>
+    <div class="icons">
       <font-awesome-icon :icon="['fab', 'facebook']" />
       <font-awesome-icon :icon="['fas', 'coffee']" />
       <CssLoader />
@@ -47,5 +47,13 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss" scoped>
+.homepage {
+  background: aqua;
+
+  .icons {
+    background: green
+  }
+}
 </style>
+
