@@ -48,12 +48,5 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.homepage {
-  background: aqua;
-
-  .icons {
-    background: green
-  }
-}
 </style>
 
