@@ -1,7 +1,3 @@
-// FONTS
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300&display=swap');
-$Nunito: 'Nunito Sans', sans-serif;
-
 // COLORS
 $primary: #64b5f6;
 $primaryLight: #90caf9;
@@ -17,7 +13,7 @@ $secondaryDark: #896623;
 $logoBlue: #62B4E1;
 
 body {
-  font-family: $Nunito;
+  font-family: 'Nunito Sans', sans-serif;
 }
 h1 {
   font-size: 3rem;
