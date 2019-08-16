@@ -1,5 +1,5 @@
 <template>
-  <div class="page homepage">
+  <div class="homepage">
     <h1>Homepage</h1>
     <div>{{ product.title }}</div>
     <nuxt-link to="/about">

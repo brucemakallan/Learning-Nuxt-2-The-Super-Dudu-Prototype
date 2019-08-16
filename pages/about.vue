@@ -1,5 +1,5 @@
 <template>
-  <div class="page about-page">
+  <div class="about-page">
     About Page
     <nuxt-link to="/">
       home

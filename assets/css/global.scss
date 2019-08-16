@@ -19,11 +19,8 @@ h1 {
   font-size: 3rem;
 }
 
-.page {
-  transition: all 1s;
-}
 .page-enter-active, .page-leave-active {
-  transition: opacity 1s
+  transition: all .5s
 }
 .page-enter, .page-leave-active {
   opacity: 0
